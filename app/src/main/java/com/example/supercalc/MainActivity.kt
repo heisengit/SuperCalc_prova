@@ -11,7 +11,5 @@ class MainActivity : AppCompatActivity() {
 
         val a = 10
 
-
-        //prova
     }
 }
